@@ -10,3 +10,6 @@ Anonymous Feedback Form: https://forms.gle/Vqx3DF49t56nXJtx9
 **Week 2**: More on Git, Intro to Major Project and Teamwork
 - [Slides](https://docs.google.com/presentation/d/199sZPhSe6UxxhcfExzMRp-zat2YwpDTLqVXr3c738Ew/edit#slide=id.g4dfce81f19_0_45)
 
+**Week 3**: Multi-file, NPM, Testing
+- [Slides](https://docs.google.com/presentation/d/1J3YQJugewihW88gq44n4MREErWq25FhPGwAkLctsy-4/edit#slide=id.g4dfce81f19_0_45)
+- [Tut Solutions](./COMP1531/Tut03/)
