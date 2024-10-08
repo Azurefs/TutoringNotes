@@ -17,3 +17,7 @@ Anonymous Feedback Form: https://forms.gle/Vqx3DF49t56nXJtx9
 **Week 4**: TypeScript, HTTP and Linting
 - [Slides](https://docs.google.com/presentation/d/16cSZN6eTa-MxZmmslZq5d1iTFDxNboeqwhi_wXtftmQ/edit#slide=id.g4dfce81f19_0_45)
 - [Tut Solutions](./COMP1531/Tut04/)
+
+**Week 5**: Express Servers, Routing and HTTP Tests
+- [Slides]()
+- [Tut Solutions](./COMP1531/Tut05/)
