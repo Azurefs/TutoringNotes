@@ -19,5 +19,5 @@ Anonymous Feedback Form: https://forms.gle/Vqx3DF49t56nXJtx9
 - [Tut Solutions](./COMP1531/Tut04/)
 
 **Week 5**: Express Servers, Routing and HTTP Tests
-- [Slides]()
+- [Slides](https://docs.google.com/presentation/d/1_SjaQWqYeXDEP8iKnp9U5mZrU27taatmtrE1DtpilLE/edit#slide=id.g4dfce81f19_0_45)
 - [Tut Solutions](./COMP1531/Tut05/)
