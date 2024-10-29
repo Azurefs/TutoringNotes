@@ -24,3 +24,6 @@ Anonymous Feedback Form: https://forms.gle/Vqx3DF49t56nXJtx9
 
 **Week 7**: Exceptions, Debugging, Persistence:
 - [Slides](https://docs.google.com/presentation/d/1-zGIT6nio2fImODInGYaWqm0if0z2gUbm1z_tyV_erU/edit#slide=id.g4dfce81f19_0_45)
+
+**Week 8**: Hashing, State Diagrams, Async Methods
+- [Slides](https://docs.google.com/presentation/d/15AqyLZNFINJ2bAiE3GrOfs-TKP6M9MIn-JDuhpCNWQA/edit#slide=id.g2671186bc01_0_1132)
